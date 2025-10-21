@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I am yedgk, a Kotlin Developer from Poland 🇵🇱</h1>
+<h1 align="center">Hi 👋! I am yedgk, a Java Developer from Poland 🇵🇱</h1>
 
 ###
 
