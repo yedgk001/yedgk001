@@ -18,6 +18,4 @@
 
 ###
 
-<div align="center">
-  ![snake gif](https://github.com/yedgk001/yedgk001/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/yedgk001/yedgk001/blob/output/github-snake-dark.svg)
