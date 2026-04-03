@@ -6,5 +6,3 @@
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   <img src="https://img.shields.io/static/v1?message=jetbrains&logo=jetbrains&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
 </div>
-
-![snake gif](https://github.com/yedgk001/yedgk001/blob/output/github-snake-dark.svg)
