@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://github.com/yedgk001/yedgk001/blob/output/github-snake.svg" width="60%" />
+  <img src="https://github.com/yedgk001/yedgk001/blob/output/github-contribution-grid-snake.svg" width="60%" />
 </div>
