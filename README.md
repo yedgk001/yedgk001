@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yedgk001/yedgk001/output/snake.svg" alt="snake" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yedgk001/yedgk001/output/snake.svg" width="400" />
+</div>
