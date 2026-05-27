@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23000000.svg?style=flat&logo=Apache+Maven&logoColor=white" />
 </div>
-<div align="center">
-  <img src="raw.githubusercontent.com/yedgk001/yedgk001/output/snake.svg" />
+<div align="center" style="width:615px; overflow:hidden;">
+  <a href="https://yedgk001.github.io/yedgk001/">
+    <img
+      src="https://raw.githubusercontent.com/yedgk001/yedgk001/output/snake.svg"
+      width="615"
+      style="display:block; image-rendering:pixelated;"
+      alt="snake animation"
+    />
+  </a>
 </div>
