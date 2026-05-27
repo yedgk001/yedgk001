@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23000000.svg?style=flat&logo=Apache+Maven&logoColor=white" />
 </div>
-<div style="width:615px; overflow:hidden;" align=center>
+<div style="width:615px; overflow:hidden;">
   <img src=".../snake.svg" width="615" />
 </div>
