@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Sup</p>
+  <p>Sup 🥕</p>
   <p>I am a random teenage guy interested in programming languages.</p>
   <p>Right now I'm experimenting with Minecraft frameworks.</p>
 </div>
