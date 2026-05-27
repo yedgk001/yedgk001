@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23000000.svg?style=flat&logo=Apache+Maven&logoColor=white" />
 </div>
-<div align="center" style="width:615px; overflow:hidden;">
+<br>
+<div align="center" style="overflow:hidden;">
     <img
       src="https://raw.githubusercontent.com/yedgk001/yedgk001/output/snake.svg"
       width="615"
